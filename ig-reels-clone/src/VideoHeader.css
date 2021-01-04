@@ -1,0 +1,14 @@
+.videoHeader
+{
+    display: flex;
+    justify-content: space-around;
+    /* background: none; */
+    position: absolute;
+    width: 100%;
+    color: rgb(221, 217, 217);
+}
+
+.videoHeader > *
+{
+    padding: 1.5rem;
+}
